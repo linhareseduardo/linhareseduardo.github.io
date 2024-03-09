@@ -1,0 +1,23 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FFFFFF; /* Branco */
+    color: #000000; /* Preto */
+}
+
+header {
+    background-color: #004F91; /* Azul */
+    color: #FFFFFF; /* Branco */
+    padding: 20px;
+}
+
+footer {
+    background-color: #E31837; /* Vermelho */
+    color: #FFFFFF; /* Branco */
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
