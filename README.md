@@ -1,2 +1,2 @@
 # linhareseduardo.github.io
-Projeto site curso Git e GitHub
+Projeto site atividade Faculdade Descomplica
